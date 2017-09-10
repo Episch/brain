@@ -13,7 +13,7 @@ git clone https://github.com/Episch/brain.git
 
 ## run script
 ```
-python findImage.py splatoon-2-salmon-run-times.jpg wep/
+python findImage.py splatoon-2-salmon-run-times.jpg weapons/
 ```
 ```
 python findImage.py

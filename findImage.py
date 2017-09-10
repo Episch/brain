@@ -6,7 +6,7 @@ import os
 baseImage = 'salmonscreen.jpg'
 if len(sys.argv) > 1:
 	baseImage = sys.argv[1]
-path = 'wep'
+path = 'weapons'
 if len(sys.argv) > 2:
 	path = sys.argv[2]
 img_rgb = cv2.imread(baseImage)
