@@ -3,7 +3,6 @@ import numpy as np
 import sys
 import os
 
-
 baseImage = 'salmonscreen.jpg'
 if len(sys.argv) > 1:
 	baseImage = sys.argv[1]
